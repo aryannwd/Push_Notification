@@ -2,8 +2,8 @@
 <html>
 <head>
 	<title>Push Notification</title>
-	<script type="main.js"></script>
-	<link rel="manifest" href="/manifest.json">
+	<script type="text/javascript" href="main.js" ></script>
+	<link rel="manifest" href="manifest.json">
 </head>
 <body>
 <button class="js-push-button" disabled>
